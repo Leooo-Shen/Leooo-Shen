@@ -7,14 +7,15 @@
 
 ### A little more about me:
 
-```javascript
-const chengzhi = {
-  pronouns: "he" | "him",
-  code: [Python, C++, C#],
-  interests: [Deep Learning, Generative Models, Self-Supervised Learning, Explainable AI], 
-  tools: [Pytorch, Pytorch Geometric, Docker, Slurm],
-  favourite_quote: "Everything should be made as simple as possible, but not simpler."
-}
+```python
+def chengzhi():
+  return {
+      "pronouns": "he" | "him",
+      "code": [Python, C++],
+      "interests": [Deep Learning, Generative Models, Self-Supervised Learning, Explainable AI], 
+      "tools": [Pytorch, Pytorch Geometric, Docker, Slurm],
+      "favourite_quote": "Everything should be made as simple as possible, but not simpler."
+      }
 ```
 
 ### Some statistics:
