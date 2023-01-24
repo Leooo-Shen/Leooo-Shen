@@ -5,7 +5,7 @@
 [![Linkedin: Chengzhi](https://img.shields.io/badge/-chengzhi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chengzhi-shen/)](https://www.linkedin.com/in/chengzhi-shen/)
 
 
-### A little more about me...  
+### A little more about me:
 
 ```javascript
 const chengzhi = {
@@ -17,7 +17,7 @@ const chengzhi = {
 }
 ```
 
-### Some statistics...  
+### Some statistics:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leooo-Shen)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leooo-Shen&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
