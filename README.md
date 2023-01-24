@@ -13,7 +13,7 @@ const chengzhi = {
   code: [Python, C++, C#],
   interests: [Deep Learning, Generative Models, Self-Supervised Learning, Explainable AI], 
   tools: [Pytorch, Pytorch Geometric, Docker, Slurm],
-  favourite quote: "Everything should be made as simple as possible, but not simpler."
+  favourite_quote: "Everything should be made as simple as possible, but not simpler."
 }
 ```
 
