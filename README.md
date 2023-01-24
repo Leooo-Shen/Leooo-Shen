@@ -19,6 +19,6 @@ const chengzhi = {
 
 ### Some statistics...  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leooo-Shen)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leooo-Shen&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
-<b><em>🔭 I love exchanging ideas with different people. Just drop me an email and I'm happy to meet you :) </b></a><em>
+<b><em>🔭 I love exchanging ideas with different people. Just come and say hi and I'm happy to meet you :) </b></a><em>
