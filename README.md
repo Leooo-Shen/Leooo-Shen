@@ -10,7 +10,7 @@
 ```python
 def chengzhi():
   return {
-      "pronouns": "he" | "him",
+      "pronouns": ["he", "him"],
       "code": [Python, C++],
       "interests": [Deep Learning, Generative Models, Self-Supervised Learning, Explainable AI], 
       "tools": [Pytorch, Pytorch Geometric, Docker, Slurm],
