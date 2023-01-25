@@ -19,6 +19,6 @@ def chengzhi():
 ```
 
 ### Some statistics:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leooo-Shen)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leooo-Shen&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <b><em>🔭 I love exchanging ideas with different people. Just come and say hi and I'm happy to meet you :) </b></a><em>
