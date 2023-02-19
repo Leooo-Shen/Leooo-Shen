@@ -12,7 +12,7 @@ def chengzhi():
   return {
       "pronouns": ["he", "him"],
       "code": [Python, C++],
-      "interests": [Generative Models, Self-Supervised Learning, Explainable AI], 
+      "interests": [Generative Models, Self-Supervised Learning, Reliable AI], 
       "tools": [Pytorch, Docker, Slurm],
       "favourite_quote": "Everything should be made as simple as possible, but not simpler."
       }
