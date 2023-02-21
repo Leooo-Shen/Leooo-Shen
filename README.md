@@ -3,7 +3,7 @@
   </br>  💻 Interests: AI, computer vision, medical imaging, and cool stuffs  </a><p></em>
  
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/chengzhi-shen/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:cz.shen.work@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:cz.shen.muc@gmail.com)
 
 ### A little more about me:
 
